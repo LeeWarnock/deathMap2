@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+}
+#tableDiv {
+	height: 40vh;
+	overflow-y: scroll;
+	display: inline-block;
+	width: 100%;
+}
+
+.nyTimes a {
+	word-break:break-all;
+}
+
+a {
+	color: green;
+}
